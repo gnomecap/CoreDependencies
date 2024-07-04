@@ -1,0 +1,10 @@
+{
+    "name": "com.gnomecap.coredependencies",
+    "version": "0.0.1",
+    "displayName": "Gnome Core",
+    "description": "a neat package that grabs external dependencies for the gnomecore",
+    "unity": "2019.1",
+    "author": {
+      "name": "GnomeCap Games"
+    }
+  }
