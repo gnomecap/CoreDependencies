@@ -4,7 +4,7 @@ A neat little group of Unity package dependencies for the GnomeCore. External an
 
 # Installation
 (via OpenUPM scoped registery)
-This package is available on OpenUPM: https://openupm.com/packages/com.brunomikoski.animationsequencer
+This package is available on OpenUPM: https://openupm.com/packages/com.brunomikoski.animationsequencer](https://openupm.com/packages/com.gnomecap.coredependencies/
 To add it the package to your project:
 - open `Edit/Project Settings/Package Manager`
 - add a new Scoped Registry:
