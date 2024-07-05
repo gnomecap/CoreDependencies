@@ -12,7 +12,7 @@ To add it the package to your project:
   Name: OpenUPM
   URL:  https://package.openupm.com/
   Scope(s): com.gnomecap
-            com.codewriter
+            com.codewriter.triinspector
   ```
 - click <kbd>Save</kbd>
 - open Package Manager
