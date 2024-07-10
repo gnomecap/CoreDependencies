@@ -1,6 +1,6 @@
 {
     "name": "com.gnomecap.coredependencies",
-    "version": "0.0.2b",
+    "version": "0.0.3",
     "displayName": "Gnome Core Dependencies",
     "description": "a neat package that grabs external dependencies for the gnomecore",
     "unity": "2019.1",
