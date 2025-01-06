@@ -1,6 +1,6 @@
 {
     "name": "com.gnomecap.coredependencies",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "displayName": "Gnome Core Dependencies",
     "description": "a neat package that grabs external dependencies for the gnomecore",
     "unity": "2019.1",
@@ -8,7 +8,6 @@
       "name": "GnomeCap Games"
     },
     "dependencies": {
-        "com.gnomecap.scriptableobject-architecture": "0.0.2",
-        "com.codewriter.triinspector": "1.14.0"
+        "com.gnomecap.scriptableobject-architecture": "0.0.2"
       }
   }
