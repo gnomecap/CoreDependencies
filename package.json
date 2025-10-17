@@ -1,6 +1,6 @@
 {
     "name": "com.gnomecap.coredependencies",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "displayName": "Gnome Core Dependencies",
     "description": "a neat package that grabs external dependencies for the gnomecore",
     "unity": "2019.1",
@@ -8,9 +8,8 @@
       "name": "GnomeCap Games"
     },
     "dependencies": {
-        "com.gnomecap.scriptableobject-architecture": "^0.0.3",
-        "com.annulusgames.alchemy": "^2.0.1",
-        "com.annulusgames.lit-motion": "^2.0.0",
-        "com.annulusgames.tween-playables": "^0.9.1"
+        "com.cysharp.unitask": "^2.5.10",
+        "com.github-glitchenzo.nugetforunity" : "^4.5.0",
+        "com.kyrylokuzyk.primetween": "^1.3.3"
       }
   }
